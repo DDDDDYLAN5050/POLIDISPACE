@@ -1,0 +1,107 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .navbar-brand a {
+  font-family: 'Roboto Slab', serif;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1.2em;
+  color: #0275d8;
+  font-family: 'Roboto Slab', serif;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #f2f2f2;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #e8e8e8;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #0275d8;
+}
+#dropdown-menu-0 A {
+  font-size: 20px;
+}
+#header2-0 H1 {
+  text-align: left;
+  font-family: 'Roboto Slab', serif;
+  color: #0275d8;
+}
+#header2-0 P {
+  color: #0275d8;
+  font-family: 'Roboto Slab', serif;
+}
+#slider-2 H2 {
+  font-family: 'Roboto Slab', serif;
+  color: #0275d8;
+  text-align: left;
+}
+#slider-2 P {
+  font-family: 'Roboto Slab', serif;
+  color: #0275d8;
+  text-align: left;
+}
+#features1-5 H4 {
+  color: #0275d8;
+  font-family: 'Roboto Slab', serif;
+}
+#features1-5 P {
+  color: #0275d8;
+  font-family: 'Roboto Slab', serif;
+}
+#features1-7 P {
+  text-align: left;
+  color: #0275d8;
+  font-family: 'Roboto Slab', serif;
+}
+#features1-7 H4 {
+  color: #0275d8;
+  font-family: 'Roboto Slab', serif;
+}
+#form2-8 .btn {
+  font-family: 'Roboto Slab', serif;
+}
+#form2-8 .mbr-section-title {
+  font-family: 'Roboto Slab', serif;
+  color: #0275d8;
+}
+#social-buttons2-e .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+#contacts1-3 P {
+  text-align: left;
+  color: #ffffff;
+  font-family: 'Roboto Slab', serif;
+}
+#contacts1-3 DIV {
+  color: #ffffff;
+  text-align: left;
+}
+#contacts1-3 STRONG {
+  font-family: 'Roboto Slab', serif;
+}
+#contacts1-3 UL {
+  font-family: 'Roboto Slab', serif;
+}
